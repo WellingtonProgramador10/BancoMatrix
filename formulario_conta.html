@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>Criar Conta - Banco Matrix</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #000;
+      color: #00ff99;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      margin: 0;
+    }
+
+    h1 {
+      color: #00ff99;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    form {
+      background-color: #111;
+      border: 2px solid #00ff99;
+      padding: 20px;
+      border-radius: 10px;
+      width: 100%;
+      max-width: 500px;
+      margin: auto;
+    }
+
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+
+    input, select {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      background-color: #000;
+      color: #00ff99;
+      border: 1px solid #00ff99;
+      border-radius: 5px;
+    }
+
+    button, .login-btn {
+      margin-top: 20px;
+      padding: 12px;
+      background-color: #00ff99;
+      color: #000;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      width: 100%;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    button:hover, .login-btn:hover {
+      background-color: #00cc77;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+
+      form {
+        padding: 15px;
+      }
+
+      input, select, button, .login-btn {
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Cadastro de Conta - Banco Matrix</h1>
+  <form id="formConta">
+    <label>Nome Completo:</label>
+    <input type="text" name="name" required>
+
+    <label>Email:</label>
+    <input type="email" name="email" required>
+
+    <label>Email de Login:</label>
+    <input type="email" name="loginEmail">
+
+    <label>CPF ou CNPJ:</label>
+    <input type="text" name="cpfCnpj" required>
+
+    <label>Tipo de Pessoa:</label>
+    <select name="personType">
+      <option value="FISICA">Física</option>
+      <option value="JURIDICA">Jurídica</option>
+    </select>
+
+    <label>Tipo de Empresa:</label>
+    <select name="companyType">
+      <option value="">Selecione (apenas para Pessoa Jurídica)</option>
+      <option value="MEI">MEI</option>
+      <option value="ME">ME</option>
+      <option value="EPP">EPP</option>
+      <option value="EIRELI">EIRELI</option>
+      <option value="SA">S/A</option>
+      <option value="LTDA">LTDA</option>
+      <option value="INSTITUICAO">Instituição</option>
+    </select>
+
+    <label>Data de Nascimento:</label>
+    <input type="date" name="birthDate">
+
+    <label>Telefone:</label>
+    <input type="text" name="phone">
+
+    <label>Celular:</label>
+    <input type="text" name="mobilePhone" required>
+
+    <label>Endereço:</label>
+    <input type="text" name="address" required>
+
+    <label>Número:</label>
+    <input type="text" name="addressNumber" required>
+
+    <label>Complemento:</label>
+    <input type="text" name="complement">
+
+    <label>Bairro:</label>
+    <input type="text" name="province" required>
+
+    <label>CEP:</label>
+    <input type="text" name="postalCode" required>
+
+    <label>Cidade ID:</label>
+    <input type="text" name="city" required>
+
+    <label>Estado:</label>
+    <select name="state" required>
+      <option value="">Selecione</option>
+      <option value="AC">Acre</option>
+      <option value="AL">Alagoas</option>
+      <option value="AP">Amapá</option>
+      <option value="AM">Amazonas</option>
+      <option value="BA">Bahia</option>
+      <option value="CE">Ceará</option>
+      <option value="DF">Distrito Federal</option>
+      <option value="ES">Espírito Santo</option>
+      <option value="GO">Goiás</option>
+      <option value="MA">Maranhão</option>
+      <option value="MT">Mato Grosso</option>
+      <option value="MS">Mato Grosso do Sul</option>
+      <option value="MG">Minas Gerais</option>
+      <option value="PA">Pará</option>
+      <option value="PB">Paraíba</option>
+      <option value="PR">Paraná</option>
+      <option value="PE">Pernambuco</option>
+      <option value="PI">Piauí</option>
+      <option value="RJ">Rio de Janeiro</option>
+      <option value="RN">Rio Grande do Norte</option>
+      <option value="RS">Rio Grande do Sul</option>
+      <option value="RO">Rondônia</option>
+      <option value="RR">Roraima</option>
+      <option value="SC">Santa Catarina</option>
+      <option value="SP">São Paulo</option>
+      <option value="SE">Sergipe</option>
+      <option value="TO">Tocantins</option>
+    </select>
+
+    <label>País:</label>
+    <select name="country" required>
+      <option value="BRA">Brasil</option>
+      <option value="USA">Estados Unidos</option>
+      <option value="PRT">Portugal</option>
+      <option value="ARG">Argentina</option>
+      <option value="ESP">Espanha</option>
+    </select>
+
+    <label>Site (opcional):</label>
+    <input type="url" name="site">
+
+    <label>Renda Mensal:</label>
+    <input type="number" name="incomeValue" required>
+
+    <label>Senha:</label>
+    <input type="password" name="senha" required>
+
+    <button type="submit">Cadastrar Conta</button>
+    <a class="login-btn" href="login.php">Ir para Login</a>
+  </form>
+
+  <script>
+    document.getElementById('formConta').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const form = e.target;
+      const formData = new FormData(form);
+      const jsonData = {};
+
+      formData.forEach((value, key) => {
+        jsonData[key] = value;
+      });
+
+      const response = await fetch('inserir_conta.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(jsonData)
+      });
+
+      const result = await response.json();
+      alert(result.message);
+      if (result.success) form.reset();
+    });
+  </script>
+</body>
+</html>

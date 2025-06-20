@@ -1,0 +1,318 @@
+[03-May-2025 22:44:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 22:45:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 22:50:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 22:53:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 22:53:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 22:55:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 22:58:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 23:01:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 23:03:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 23:06:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 23:12:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 23:39:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[03-May-2025 23:54:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[03-May-2025 23:54:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[04-May-2025 00:31:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:55
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(55): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 55
+[04-May-2025 00:33:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:55
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(55): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 55
+[04-May-2025 00:33:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:55
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(55): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 55
+[04-May-2025 00:34:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:55
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(55): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 55
+[04-May-2025 00:38:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:55
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(55): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 55
+[04-May-2025 00:41:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:19
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(19): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 19
+[04-May-2025 00:47:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:19
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(19): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 19
+[04-May-2025 00:48:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:19
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(19): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 19
+[04-May-2025 00:51:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:19
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(19): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 19
+[04-May-2025 00:54:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/cliente.php:19
+Stack trace:
+#0 /home/ji1r5l6t/public_html/cliente.php(19): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/cliente.php on line 19
+[04-May-2025 00:58:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/admin_login.php:22
+Stack trace:
+#0 /home/ji1r5l6t/public_html/admin_login.php(22): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/admin_login.php on line 22
+[04-May-2025 01:12:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/admin_login.php:22
+Stack trace:
+#0 /home/ji1r5l6t/public_html/admin_login.php(22): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/admin_login.php on line 22
+[04-May-2025 01:22:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[04-May-2025 01:22:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[04-May-2025 01:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[04-May-2025 01:22:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[04-May-2025 01:23:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[04-May-2025 01:37:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/inserir_conta.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/inserir_conta.php(8): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/inserir_conta.php on line 8
+[20-Jun-2025 14:32:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[20-Jun-2025 14:35:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[20-Jun-2025 16:12:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[20-Jun-2025 16:20:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(3): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[20-Jun-2025 16:22:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(13): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[20-Jun-2025 16:29:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(13): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[20-Jun-2025 16:30:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/ji1r5l6t/public_html/conexao.php:8
+Stack trace:
+#0 /home/ji1r5l6t/public_html/conexao.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'matrix')
+#1 /home/ji1r5l6t/public_html/login.php(13): require('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/conexao.php on line 8
+[20-Jun-2025 16:31:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(12): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:31:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(12): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:33:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(12): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:33:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(12): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:35:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(12): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:37:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(18): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:39:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(18): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:42:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(18): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 16:43:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'matrix'@'localhost' to database 'Matrix' in /home/ji1r5l6t/public_html/consulta_saldo.php:227
+Stack trace:
+#0 /home/ji1r5l6t/public_html/consulta_saldo.php(227): mysqli->__construct('localhost', 'matrix', Object(SensitiveParameterValue), 'Matrix')
+#1 /home/ji1r5l6t/public_html/cliente.php(18): include('/home/ji1r5l6t/...')
+#2 {main}
+  thrown in /home/ji1r5l6t/public_html/consulta_saldo.php on line 227
+[20-Jun-2025 17:00:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/transferencia_pix.php:152
+Stack trace:
+#0 /home/ji1r5l6t/public_html/transferencia_pix.php(152): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/transferencia_pix.php on line 152
+[20-Jun-2025 17:00:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ji1r5l6t/public_html/extrato.php:111
+Stack trace:
+#0 /home/ji1r5l6t/public_html/extrato.php(111): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'Matrix')
+#1 {main}
+  thrown in /home/ji1r5l6t/public_html/extrato.php on line 111
